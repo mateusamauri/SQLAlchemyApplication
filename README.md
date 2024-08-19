@@ -1,10 +1,10 @@
-#SQLAlchemyApplication
+# SQLAlchemyApplication
 
 **Objetivo:**
 
 * Criação de uma aplicação utilizando SQLAlchemy e Python  para a criação de tabelas, a conexão com o banco de dados, a modelagem de classes, a persistência de dados e a execução de consultas
 
-##SQLAlchemy na Prática
+## SQLAlchemy na Prática
 
 Explorando bibliotecas, frameworks e ferramentas Python, encontramos diversas opções úteis para diferentes propósitos. Um exemplo é o SQLAlchemy, um kit de ferramentas Python/SQL que implementa a técnica de ORM (Object Relational Mapping). O ORM facilita o mapeamento entre modelos de dados relacionais e modelos orientados a objetos.
 Em termos práticos, o ORM automatiza a conversão de dados entre bancos de dados relacionais e linguagens de programação orientadas a objetos, como Python. Isso reduz a necessidade de escrever código SQL manualmente, aumentando a produtividade dos desenvolvedores.
