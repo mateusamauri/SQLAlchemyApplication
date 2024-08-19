@@ -20,4 +20,4 @@ No SQLAlchemy:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1.4.0-blue?logo=sqlalchemy)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-blue?logo=sqlalchemy)
